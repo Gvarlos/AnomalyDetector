@@ -13,12 +13,12 @@
 ## Установка необходимых зависимостей
 
     pip install numpy
-    Keras
-    TensorFlow
-    Pandas
-    Socket
-    CSV
-    Scikit-learn
+    pip install keras
+    pip install TensorFlow
+    pip install pandas
+    pip install socket
+    pip install CSV
+    pip install scikit-learn
 
 ## Выполнение программы
 * При запуске программы необходимо ввести IP-адрес сервера на который будут передаваться данные и временной промежуток
